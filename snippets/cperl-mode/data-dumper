@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# key: data-dumper
+# name: Data::Dumper
+# --
+use Data::Dumper;warn Dumper(`yas/selected-text`$0);

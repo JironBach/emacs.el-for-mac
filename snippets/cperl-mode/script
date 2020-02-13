@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# key  : script
+# name : Perl script template
+# binding: C-c C-c C-s
+# --
+#!/usr/bin/env perl
+use strict;
+use warnings;
+use utf8;
+
+$0
