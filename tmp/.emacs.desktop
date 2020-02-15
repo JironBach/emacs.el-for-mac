@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Feb 14 03:19:11 2020
+;; Desktop file format version 208
+;; Emacs version 26.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24133 37663 298470 0) (desktop . "208") "js@JunyaShimoda-no-MacBook-Pro.local" nil nil ((((minibuffer . t) (font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (undecorated) (ns-appearance . unbound) (ns-transparent-titlebar . unbound) (z-group) (no-focus-on-map) (no-accept-focus) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha . 100) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (environment) (nil) (frameset--id . "5F6B-EB9F-F0B0-EE55") (frameset--mini t . t) (height . 47) (width . 175) (modeline . t) (unsplittable) (left . 0) (top . 0) (icon-name) (visibility . t) (display . "JunyaShimoda-no-MacBook-Pro.local") (explicit-name) (tool-bar-position . top)) ((min-height . 8) (min-width . 20) (min-height-ignore . 5) (min-width-ignore . 10) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 112) (min-pixel-width . 140) (min-pixel-height-ignore . 70) (min-pixel-width-ignore . 70) (min-pixel-height-safe . 28) (min-pixel-width-safe . 28)) hc (pixel-width . 1241) (pixel-height . 644) (total-width . 177) (total-height . 46) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 618) (pixel-height . 644) (total-width . 88) (total-height . 46) (normal-height . 1.0) (normal-width . 0.5) (buffer "base.html" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 2570) (start . 2570))) (vc (last . t) (pixel-width . 623) (pixel-height . 644) (total-width . 89) (total-height . 46) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 623) (pixel-height . 322) (total-width . 89) (total-height . 23) (normal-height . 0.5) (normal-width . 1.0) (buffer "*slime-repl sbcl<2>*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 3697) (start . 3168))) (leaf (last . t) (pixel-width . 623) (pixel-height . 322) (total-width . 89) (total-height . 23) (normal-height . 0.5) (normal-width . 1.0) (buffer "index_controller.rb" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 160) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/Users/js/.emacs.d/tmp" "~/bin/python/test/nagaoka_proj/nagaoka/templates/base.html" "~/work/nagaoka/app/controllers/index_controller.rb" "~/bin/python/test/nagaoka_proj/nagaoka/templates/base.html" "~/.emacs.d/init.el" "~/.emacs.d/site-lisp/set-windows-usability.el" "~/.emacs.d/elisp/elpa/neotree-20181121.2026/neotree-autoloads.el" "~/.emacs.d/elisp/elpa/elscreen-20181009.451/elscreen-autoloads.el" "~/work/nagaoka/app/controllers/index_controller.rb" "~/bin/python/test/nagaoka_proj/nagaoka/templates/base.html" "~/bin/python/test/nagaoka_proj/nagaoka/templates/index.html" "~/bin/python/test/nagaoka_proj/nagaoka/views/index_view.py" "~/.emacs.d/site-lisp/jironbach.el" "~/.emacs.d/site-lisp/slime-init.el" "~/.emacs.d/init.el" "~/.emacs.d/site-lisp/init-loader.el" "~/.emacs.d/elisp/elpa/zenburn-theme-20200204.1823/zenburn-theme-autoloads.el" "~/.emacs.d/site-lisp/popwin.el" "~/.emacs.d/elisp/elpa/slime-20200209.1437/slime-autoloads.el" "~/.emacs.d/elisp/elpa/macrostep-20161120.2106/macrostep-autoloads.el" "~/.framesize.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/js/work/nagaoka/app/controllers/index_controller.rb"
+  "index_controller.rb"
+  'ruby-mode
+  '(global-auto-revert-mode global-whitespace-mode)
+  160
+  '(160 nil)
+  nil
+  nil
+  '((tab-width . 2) (indent-tabs-mode) (buffer-display-time 24133 37609 851334 0) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (160))))
+
+(desktop-create-buffer 208
+  "/Users/js/bin/python/test/nagaoka_proj/nagaoka/templates/base.html"
+  "base.html"
+  'mhtml-mode
+  '(global-auto-revert-mode global-whitespace-mode)
+  2570
+  '(816 nil)
+  nil
+  nil
+  '((buffer-display-time 24133 37605 509587 0) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/js/.emacs.d/init.el"
+  "init.el"
+  'text-mode
+  '(eldoc-mode global-auto-revert-mode global-whitespace-mode)
+  4140
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 24133 35012 955786 0) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((mark-ring nil)))
+
